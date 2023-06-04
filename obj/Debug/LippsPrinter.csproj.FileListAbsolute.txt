@@ -1,0 +1,15 @@
+C:\Users\duythai\Desktop\LippsPrinter\obj\Debug\LippsPrinter.csproj.AssemblyReference.cache
+C:\Users\duythai\Desktop\LippsPrinter\obj\Debug\LippsPrinter.csproj.SuggestedBindingRedirects.cache
+C:\Users\duythai\Desktop\LippsPrinter\obj\Debug\LippsPrinter.Properties.Resources.resources
+C:\Users\duythai\Desktop\LippsPrinter\obj\Debug\LippsPrinter.Main.resources
+C:\Users\duythai\Desktop\LippsPrinter\obj\Debug\LippsPrinter.csproj.GenerateResource.cache
+C:\Users\duythai\Desktop\LippsPrinter\obj\Debug\LippsPrinter.csproj.CoreCompileInputs.cache
+C:\Users\duythai\Desktop\LippsPrinter\bin\Debug\LippsPrinter.exe.config
+C:\Users\duythai\Desktop\LippsPrinter\bin\Debug\LippsPrinter.exe
+C:\Users\duythai\Desktop\LippsPrinter\bin\Debug\LippsPrinter.pdb
+C:\Users\duythai\Desktop\LippsPrinter\obj\Debug\LippsPrinter.csproj.CopyComplete
+C:\Users\duythai\Desktop\LippsPrinter\obj\Debug\LippsPrinter.exe
+C:\Users\duythai\Desktop\LippsPrinter\obj\Debug\LippsPrinter.pdb
+C:\Users\duythai\Desktop\LippsPrinter\bin\Debug\Spire.Pdf.dll
+C:\Users\duythai\Desktop\LippsPrinter\bin\Debug\Microsoft.mshtml.dll
+C:\Users\duythai\Desktop\LippsPrinter\bin\Debug\Spire.Pdf.xml
